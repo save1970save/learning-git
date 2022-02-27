@@ -8,7 +8,7 @@ git config --global user.name "s.iormetti"
 git config --global user.email "s.iormetti@be-tse.it"
 git config --global color.ui auto
 git config -l -> lista parametri di configurazione
-cd desktop/learning-git
+cd desktop/learning-git 
 git init .    -> inizializza la directory
 dir /ah       -> per vedere i files nascosti
 type nul >> index.html -> crea un file vuoto  
