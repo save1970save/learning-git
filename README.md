@@ -4,7 +4,7 @@ repository per imparare git e github
 
 GIT COMMANDS
 ----------------
-git config --global user.name "s.iormetti"
+git config --global user.name "s.iormetti"<br>
 git config --global user.email "s.iormetti@be-tse.it"
 git config --global color.ui auto
 git config -l -> lista parametri di configurazione
